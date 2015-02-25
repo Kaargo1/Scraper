@@ -14,5 +14,4 @@ for name in names:
     i = name.findNext("i")
     bTitle = b.string
     iTitle = i.string
-    print(bTitle)
-    print(iTitle)
+    print(bTitle, " " + iTitle)
